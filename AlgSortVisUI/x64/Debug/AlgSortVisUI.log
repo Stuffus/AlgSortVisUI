@@ -1,0 +1,43 @@
+﻿  MyForm.cpp
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:             _Ty=int
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:         and
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:             T=float
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,65): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,49): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,49): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,49): warning C4244:             T=float
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(40,49): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(41,51): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(41,51): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(41,51): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(41,51): warning C4244:             _Ty=int
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(41,51): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(41,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(70,37): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(70,37): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(70,37): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(70,37): warning C4244:             _Rep=__int64
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(70,37): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(89,37): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(89,37): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(89,37): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(89,37): warning C4244:             _Rep=__int64
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(89,37): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(131,37): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(131,37): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(131,37): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(131,37): warning C4244:             _Rep=__int64
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(131,37): warning C4244:         ]
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(427,57): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(427,57): warning C4244:         with
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(427,57): warning C4244:         [
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(427,57): warning C4244:             _Rep=__int64
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\MyForm.h(427,57): warning C4244:         ]
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  AlgSortVisUI.vcxproj -> C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\x64\Debug\AlgSortVisUI.exe

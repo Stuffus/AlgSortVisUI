@@ -1,0 +1,3 @@
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\x64\Debug\AlgSortVisUI.vcxproj.AssemblyReference.cache
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\x64\Debug\AlgSortVisUI.MyForm.resources
+C:\Users\zurov\OneDrive\Рабочий стол\prog\IPCS1_V2\AlgSortVisUI\AlgSortVisUI\x64\Debug\AlgSortVisUI.vcxproj.GenerateResource.cache
